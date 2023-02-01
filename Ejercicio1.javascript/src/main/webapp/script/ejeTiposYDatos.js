@@ -44,3 +44,14 @@ function cas6(){
 
      document.write(typeof(variableVacia));
 }
+function cas7(){
+ let nulo = null;
+     let vacio;
+     document.write(nulo);
+     document.write(typeof(nulo));
+}
+
+function cas8(){
+let Objeto = new Object();
+document.write(Objeto);
+}
